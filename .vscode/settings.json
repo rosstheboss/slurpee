@@ -20,7 +20,6 @@
         }
     },
     "terminal.integrated.defaultProfile.windows": "PowerShell",
-    "terminal.integrated.fontFamily": "Cascadia Mono PL",
     "terminal.integrated.fontWeight": "1",
     "editor.fontFamily": "Liberation Mono",
     "editor.fontSize": 16,
